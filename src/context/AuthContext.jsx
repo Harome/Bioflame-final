@@ -5,8 +5,8 @@ const SESSION_KEY   = "bf_session";
 const PAGE_KEY      = "bf_page";
 
 const VALID_PAGES = [
-  "Home", "Dashboard", "Maintenance", "Slurry Log",
-  "Documentation", "CCTV", "About Us", "Contact Us",
+  "Home", "Dashboard", "Slurry Log",
+  "Documentation", "About Us", "Contact Us",
 ];
 
 const DEMO_USERS = [

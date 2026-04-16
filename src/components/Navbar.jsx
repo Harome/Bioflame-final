@@ -3,12 +3,11 @@ import { useAuth }  from "../context/AuthContext";
 import C            from "../theme/palette";
 
 const LINKS = [
-  "Home", "Dashboard", "Maintenance", "Slurry Log",
-  "Documentation", "CCTV", "About Us", "Contact Us",
+  "Home", "Dashboard", "Slurry Log",
+  "Documentation", "About Us", "Contact Us",
 ];
 
 const LINK_LABELS = {
-  "CCTV": "📹 CCTV",
 };
 
 export default function Navbar({ page, setPage }) {

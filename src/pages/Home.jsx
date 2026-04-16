@@ -12,7 +12,6 @@ import hiraya       from "../assets/hiraya.jpg";
 
 const features = [
   { icon: "📊", title: "Real-Time Dashboard",  desc: "Monitor temperature, pH, and gas quality live with dynamic charts and instant alerts." },
-  { icon: "🔧", title: "Maintenance Tracker",  desc: "Schedule and track system upkeep tasks with priority flags and status logs." },
   { icon: "📚", title: "Full Documentation",   desc: "Setup guides, sensor specs, and workflow diagrams for every component." },
   { icon: "🌡️", title: "Sensor Integration",  desc: "Supports temperature, pH, water level, and CH₄ sensors out of the box." },
   { icon: "♻️", title: "Waste-to-Energy",      desc: "Converts animal waste into usable biogas, reducing environmental impact." },
